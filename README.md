@@ -1,4 +1,5 @@
 # Research-few-shot
+将预训练好的Res50的fc层设置为2048*100，冻结前面所有层，fine-tune baesd on mini-imagenet
 ## Res-few-shot:
 training code
 ## train_tar
